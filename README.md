@@ -4,7 +4,7 @@
 
 # Part 1
 
-In Part 1, I used Beautiful Soup and Splinter to scrape the news articles of the Red Planet Science (https://redplanetscience.com/). After scraping the data it was put into a dictionary and then loaded into MongoDB as a database of Mars articles.
+In Part 1, I used Beautiful Soup and Splinter to scrape the news articles of the Red Planet Science (https://redplanetscience.com/). After scraping the data it was put into a dictionary.
 
 # Part 2
 
